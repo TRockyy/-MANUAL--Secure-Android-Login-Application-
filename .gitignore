@@ -23,3 +23,8 @@ local.properties
 /.gradle
 *.iml
 /local.properties
+/.idea
+/build
+/.gradle
+*.iml
+/local.properties
